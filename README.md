@@ -12,13 +12,10 @@
 <i class="fa-solid fa-envelope"></i>
 <p>faisal.msu.ece@gmail.com</p>
 </div>
-<div class="contact-item" title="phone">
-<i class="fa-solid fa-phone"></i>
-<a href="tel:+86-111-2222-3333">+86-111-2222-3333</a>
-</div>
+
 <div class="contact-item" title="website">
 <i class="fa-solid fa-globe"></i>
-<a href="https://example.com" target="_blank">example.com</a>
+<a href="https://arifuzzaman.info" target="_blank">https://arifuzzaman.info</a>
 </div>
 </div>
 </div>
