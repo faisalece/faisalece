@@ -10,7 +10,7 @@
 <div class="contact">
 <div class="contact-item" title="email">
 <i class="fa-solid fa-envelope"></i>
-<a href="/cdn-cgi/l/email-protection#8ce1e9cce9f4ede1fce0e9a2efe3e1"><span class="__cf_email__" data-cfemail="79141c391c01181409151c571a1614">[email&#160;protected]</span></a>
+<p>faisal.msu.ece@gmail.com</p>
 </div>
 <div class="contact-item" title="phone">
 <i class="fa-solid fa-phone"></i>
