@@ -1,23 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="A minimalist Jekyll theme for your resume.">
-<meta property="og:title" content="Online Resume">
-<meta property="og:type" content="profile">
-<meta property="og:image" content="http://tarrex.com/online-resume/assets/images/profile.png">
-<meta property="og:url" content="http://tarrex.com/online-resume/">
-<meta property="og:description" content="A minimalist Jekyll theme for your resume.">
-<title>Online Resume</title>
-<script src="/cdn-cgi/apps/head/CSeW3pmRtB9TR5Er2cwW-4THMqM.js"></script><link rel="stylesheet" href="/online-resume/assets/fontawesome/css/all.min.css">
-<link rel="stylesheet" href="/online-resume/assets/icons/css/all.css">
-<link rel="stylesheet" href="/online-resume/assets/css/main.css">
-
-<script async defer src="https://u.tarrex.com/u.js" data-website-id="af636e2d-31ae-46f1-9071-82b1745143a9" data-domains="tarrex.github.io,tarrex.com" type="35ec026eccccb7d4e53fff00-text/javascript"></script>
-
-</head>
 <body>
 <div class="wrapper">
 <section class="basic">
