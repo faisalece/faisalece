@@ -23,7 +23,7 @@
 <section class="profile" style="order: 1">
 <div class="section-title">
 <i class="section-icon fa-solid fa-user"></i>
-<h2>Profile</h2>
+<h2>About Me</h2>
 </div>
 <div class="section-content">
 <div class="description markdown">
