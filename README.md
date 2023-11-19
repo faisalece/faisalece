@@ -4,15 +4,10 @@
 <body>
 <div class="wrapper">
 <section class="basic">
-<img class="avatar" src="/online-resume/assets/images/profile.png" alt="avatar">
 <div class="header">
-<h2 class="name">Foo Bar</h2>
-<h3 class="title">Backend Developer</h3>
+<h1 class="name">Md Arifuzzaman Faisal</h1>
+<h3 class="title">PhD Student, Researcher, Electrical Engineer, Data Analyst</h3>
 <div class="contact">
-<div class="contact-item" title="location">
-<i class="fa-solid fa-location-dot"></i>
-<span>Beijing, China</span>
-</div>
 <div class="contact-item" title="email">
 <i class="fa-solid fa-envelope"></i>
 <a href="/cdn-cgi/l/email-protection#8ce1e9cce9f4ede1fce0e9a2efe3e1"><span class="__cf_email__" data-cfemail="79141c391c01181409151c571a1614">[email&#160;protected]</span></a>
