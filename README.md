@@ -27,8 +27,9 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p>The profile section in a resume is a brief summary of the applicant’s skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant’s professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant’s career objectives, years of experience, areas of expertise, and key achievements.</p>
-<p>A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant’s qualifications and experience.</p>
+<p>Strong background in R&D, specializing in Particle accelerators, Vacuum electronics, Nanoelectronics, Semiconductor materials and devices, and Power electronics.</p>
+<p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
+<p>Extensive experience in government power utilities over 2.5 years, driving success in Engineering, Business Development, and Project Planning.</p>
 </div>
 </div>
 </section>
