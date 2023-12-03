@@ -8,10 +8,6 @@
 <h1 class="name">Md Arifuzzaman Faisal</h1>
 <h3 class="title">PhD Student, Researcher, Electrical Engineer, Data Analyst</h3>
 <div class="contact">
-<div class="contact-item" title="email">
-<i class="fa-solid fa-envelope"></i>
-<p>faisal.msu.ece@gmail.com</p>
-</div>
 
 <div class="contact-item" title="website">
 <i class="fa-solid fa-globe"></i>
