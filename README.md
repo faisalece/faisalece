@@ -29,120 +29,7 @@
 </div>
 </div>
 </section>
-<section class="experience" style="order: 2">
-<div class="section-title">
-<i class="section-icon fa-solid fa-briefcase"></i>
-<h2>Experiences</h2>
-</div>
-<div class="section-content">
-<div class="description markdown">
-<p>The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.</p>
-</div>
-<div class="items">
-<div class="item">
-<div class="row">
-<div class="company">
-<a href="#">Second Company</a>
-<small>[Full-time]</small>
-</div>
-<div class="date">
-<span>2018.03 - 2019.03</span>
-</div>
-</div>
-<div class="row">
-<div class="role">
-<span>Backend Developer</span>
-</div>
-<div class="location">
-<i class="fa-solid fa-location-dot"></i>
-<span>Beijing</span>
-</div>
-</div>
-<div class="description markdown">
-<p>Your key responsibilities and achievements in the company.</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
-</div>
-</div>
-<div class="item">
-<div class="row">
-<div class="company">
-<span>First Company</span>
-<small>[Part-time, remote]</small>
-</div>
-<div class="date">
-<span>2017.03 - 2018.03</span>
-</div>
-</div>
-<div class="row">
-<div class="role">
-<span>Backend Developer</span>
-</div>
-<div class="location">
-<i class="fa-solid fa-location-dot"></i>
-<span>Beijing</span>
-</div>
-</div>
-<div class="description markdown">
-<p>Your key responsibilities and achievements in the company.</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="project" style="order: 3">
-<div class="section-title">
-<i class="section-icon fa-solid fa-folder-open"></i>
-<h2>Projects</h2>
-</div>
-<div class="section-content">
-<div class="description markdown">
-<p>The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.</p>
-<p>In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.</p>
-<p>The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.</p>
-</div>
-<div class="items">
-<div class="item">
-<div class="row">
-<div class="project-name">
-<a href="#" target="_blank">Personal project</a>
-</div>
-<div class="date">
-<span>2015 - 2017</span>
-</div>
-</div>
-<div class="description markdown">
-<p>Personal project description…</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
-</div>
-</div>
-<div class="item">
-<div class="row">
-<div class="project-name">
-<span>OSS project</span>
-<small>[committer]</small>
-</div>
-</div>
-<div class="description markdown">
-<p>OSS project description…</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</section>
+
 <section class="skill" style="order: 4">
 <div class="section-title">
 <i class="section-icon fa-solid fa-toolbox"></i>
@@ -299,6 +186,123 @@
 </div>
 </div>
 </section>
+
+<section class="experience" style="order: 2">
+<div class="section-title">
+<i class="section-icon fa-solid fa-briefcase"></i>
+<h2>Experiences</h2>
+</div>
+<div class="section-content">
+<div class="description markdown">
+<p>The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.</p>
+</div>
+<div class="items">
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">Second Company</a>
+<small>[Full-time]</small>
+</div>
+<div class="date">
+<span>2018.03 - 2019.03</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span>Backend Developer</span>
+</div>
+<div class="location">
+<i class="fa-solid fa-location-dot"></i>
+<span>Beijing</span>
+</div>
+</div>
+<div class="description markdown">
+<p>Your key responsibilities and achievements in the company.</p>
+<ul>
+<li>First</li>
+<li>Second</li>
+</ul>
+</div>
+</div>
+<div class="item">
+<div class="row">
+<div class="company">
+<span>First Company</span>
+<small>[Part-time, remote]</small>
+</div>
+<div class="date">
+<span>2017.03 - 2018.03</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span>Backend Developer</span>
+</div>
+<div class="location">
+<i class="fa-solid fa-location-dot"></i>
+<span>Beijing</span>
+</div>
+</div>
+<div class="description markdown">
+<p>Your key responsibilities and achievements in the company.</p>
+<ul>
+<li>First</li>
+<li>Second</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="project" style="order: 3">
+<div class="section-title">
+<i class="section-icon fa-solid fa-folder-open"></i>
+<h2>Projects</h2>
+</div>
+<div class="section-content">
+<div class="description markdown">
+<p>The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.</p>
+<p>In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.</p>
+<p>The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.</p>
+</div>
+<div class="items">
+<div class="item">
+<div class="row">
+<div class="project-name">
+<a href="#" target="_blank">Personal project</a>
+</div>
+<div class="date">
+<span>2015 - 2017</span>
+</div>
+</div>
+<div class="description markdown">
+<p>Personal project description…</p>
+<ul>
+<li>First</li>
+<li>Second</li>
+</ul>
+</div>
+</div>
+<div class="item">
+<div class="row">
+<div class="project-name">
+<span>OSS project</span>
+<small>[committer]</small>
+</div>
+</div>
+<div class="description markdown">
+<p>OSS project description…</p>
+<ul>
+<li>First</li>
+<li>Second</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
 <section class="education" style="order: 5">
 <div class="section-title">
 <i class="section-icon fa-solid fa-user-graduate"></i>
