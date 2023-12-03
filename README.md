@@ -36,153 +36,17 @@
 <h2>Skills</h2>
 </div>
 <div class="section-content">
-<div class="description markdown">
-<p>The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.</p>
-<p>The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.</p>
-<p>When crafting your skills section, it’s important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.</p>
-<p>There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.</p>
-</div>
+
 <div class="items">
-<div class="item">
-<div class="skill-name">
-<span>Skill A</span>
+<p>Language: C, C++, Python, MATLAB, SQL, Java, R </p>
+<p>Parallel Programming: High Performance Computing, MPI and OpenMP</p>
+<p>Framework: TensorFlow, Keras, Panda, PyTorch, Scikit-learn, Decision Tree (Adaboost, Xgboost, Gradient boosting)</p>
+<p>Machine Learning: Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest)</p>
+<p>Deep Learning: YoLo, Resnet, Alexnet, Bidirectional LSTM, RNN, Deep-CNN, GAN, VGG, Federated Learning</p>
+<p>Platform: Git</p>
+
 </div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill B</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill C</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill D</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill E</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill F</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill G</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill H</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-<div class="item">
-<div class="skill-name">
-<span>Skill I</span>
-</div>
-<div class="skill-level">
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-solid fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-<i class="fa-regular fa-lightbulb"></i>
-</div>
-</div>
-</div>
-<div class="groups">
-<div class="group">
-<div class="group-name">
-<span>Group A Skills</span>
-</div>
-<div class="group-item">
-<span>Skill A</span>
-<span>Skill B</span>
-<span>Skill C</span>
-<span>Skill D</span>
-</div>
-</div>
-<div class="group">
-<div class="group-name">
-<span>Group B Skills</span>
-</div>
-<div class="group-item">
-<span>Skill E</span>
-<span>Skill F</span>
-<span>Skill G</span>
-</div>
-</div>
-<div class="group">
-<div class="group-name">
-<span>Group C Skills</span>
-</div>
-<div class="group-item">
-<span>Skill H</span>
-<span>Skill I</span>
-</div>
-</div>
+
 </div>
 </div>
 </section>
