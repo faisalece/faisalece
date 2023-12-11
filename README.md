@@ -24,17 +24,21 @@
 <div class="section-content">
 <div class="description markdown">
 <p><b>Technical Proficiency:</b> <br>
-<b>Nanoelectronics and Semiconductor Materials:</b> Adept in the intricacies of nanoscale electronics and advanced semiconductor materials, I have a proven track record of contributing to groundbreaking advancements in these rapidly evolving areas.
+Specialization: Nanoelectronics, Semiconductor Materials & Devices, Power Electronics, RF Power Engineering, and Computational Electromagnetics.
 
-<b>Power Electronics and RF Power Engineering:</b> Possessing a robust foundation in Power Electronics, I have demonstrated expertise in RF Power Engineering, ensuring the efficient design and optimization of systems that demand high-frequency power management.
-
-<b>Computational Electromagnetics:</b> Well-versed in Computational Electromagnetics, I leverage advanced simulation techniques to model and analyze electromagnetic phenomena, enhancing the understanding and performance of electronic systems.
-
-<b>Particle Accelerators and Vacuum Electronics:</b> Bringing valuable experience in Particle Accelerators and Vacuum Electronics, I have contributed to projects involving high-energy particle beams and vacuum-based electronic devices.
-
-<b>Interdisciplinary Skills:</b>
-
-In addition to my core technical competencies, I also have a keen interest and proficiency in Data Science and Machine Learning. Leveraging these skills, I have successfully implemented data-driven solutions and contributed to projects at the intersection of technology and data analytics. 
+Technical Proficiency:
+<ul>
+1. Nanoelectronics & Semiconductor Power Electronics: Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
+</ul>
+<ul>
+2. Computational Electromagnetics: Utilize advanced simulation techniques (CST Studio, HFSS, COMSOL) to model and analyze electromagnetic phenomena, enhancing electronic system understanding and performance.
+</ul>
+<ul>
+3. Particle Accelerators & Vacuum Electronics: Experienced in Particle Accelerators and Vacuum Electronics, contributing to projects involving high-energy particle beams and vacuum-based electronic devices.
+</ul>
+<ul>
+4. Data Science & Machine Learning: Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
+</ul>
 </p>
 <p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
 <p>Extensive experience in government power utilities over 2.5 years, driving success in Engineering, Business Development, and Project Planning.</p>
