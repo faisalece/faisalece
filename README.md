@@ -25,7 +25,7 @@
 <div class="description markdown">
 <p><b>Technical Proficiency:</b> <br>
 <ul>
-1. Nanoelectronics & Semiconductor Power Electronics: Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
+1. Nanoelectronics, Semiconductor & Power Electronics: Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
 </ul>
 <ul>
 2. Computational Electromagnetics: Utilize advanced simulation techniques (CST Studio, HFSS, COMSOL) to model and analyze electromagnetic phenomena, enhancing electronic system understanding and performance.
