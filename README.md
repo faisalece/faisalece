@@ -24,16 +24,16 @@
 <div class="description markdown">
 <p><b>Technical Proficiency:</b> <br>
 <ul>
-1. Nanoelectronics, Semiconductor & Power Electronics: Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
+</b>1. Nanoelectronics, Semiconductor & Power Electronics:</b> Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
 </ul>
 <ul>
-2. Computational Electromagnetics: Utilize advanced simulation techniques (CST Studio, HFSS, COMSOL) to model and analyze electromagnetic phenomena, enhancing electronic system understanding and performance.
+<b>2. Computational Electromagnetics:</b> Utilize advanced simulation techniques (CST Studio, HFSS, COMSOL) to model and analyze electromagnetic phenomena, enhancing electronic system understanding and performance.
 </ul>
 <ul>
-3. Particle Accelerators & Vacuum Electronics: Experienced in Particle Accelerators and Vacuum Electronics, contributing to projects involving high-energy particle beams and vacuum-based electronic devices.
+<b>3. Particle Accelerators & Vacuum Electronics:</b>  Experienced in Particle Accelerators and Vacuum Electronics, contributing to projects involving high-energy particle beams and vacuum-based electronic devices.
 </ul>
 <ul>
-4. Data Science & Machine Learning: Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
+<b>4. Data Science & Machine Learning:<b> Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
 </ul>
 </p>
 <p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
