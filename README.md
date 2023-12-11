@@ -23,7 +23,7 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p>Strong background in R&D, specializing in Particle accelerators, Vacuum electronics, Nanoelectronics, Semiconductor materials and devices, and Power electronics.</p>
+<p>Strong background in R&D, specializing in Nanoelectronics, Semiconductor materials and devices, Power electronics, Particle accelerators, Vacuum electronics, RF Power Engineering, and Computational Electromagnetics.</p>
 <p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
 <p>Extensive experience in government power utilities over 2.5 years, driving success in Engineering, Business Development, and Project Planning.</p>
 </div>
