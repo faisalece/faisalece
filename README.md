@@ -23,16 +23,16 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p><b>Technical Proficiency:</b>
-Nanoelectronics and Semiconductor Materials: Adept in the intricacies of nanoscale electronics and advanced semiconductor materials, I have a proven track record of contributing to groundbreaking advancements in these rapidly evolving areas.
+<p><b>Technical Proficiency:</b> <br>
+<b>Nanoelectronics and Semiconductor Materials:</b> Adept in the intricacies of nanoscale electronics and advanced semiconductor materials, I have a proven track record of contributing to groundbreaking advancements in these rapidly evolving areas.
 
-Power Electronics and RF Power Engineering: Possessing a robust foundation in Power Electronics, I have demonstrated expertise in RF Power Engineering, ensuring the efficient design and optimization of systems that demand high-frequency power management.
+<b>Power Electronics and RF Power Engineering:</b> Possessing a robust foundation in Power Electronics, I have demonstrated expertise in RF Power Engineering, ensuring the efficient design and optimization of systems that demand high-frequency power management.
 
-Computational Electromagnetics: Well-versed in Computational Electromagnetics, I leverage advanced simulation techniques to model and analyze electromagnetic phenomena, enhancing the understanding and performance of electronic systems.
+<b>Computational Electromagnetics:</b> Well-versed in Computational Electromagnetics, I leverage advanced simulation techniques to model and analyze electromagnetic phenomena, enhancing the understanding and performance of electronic systems.
 
-Particle Accelerators and Vacuum Electronics: Bringing valuable experience in Particle Accelerators and Vacuum Electronics, I have contributed to projects involving high-energy particle beams and vacuum-based electronic devices.
+<b>Particle Accelerators and Vacuum Electronics:</b> Bringing valuable experience in Particle Accelerators and Vacuum Electronics, I have contributed to projects involving high-energy particle beams and vacuum-based electronic devices.
 
-Interdisciplinary Skills:
+<b>Interdisciplinary Skills:</b>
 
 In addition to my core technical competencies, I also have a keen interest and proficiency in Data Science and Machine Learning. Leveraging these skills, I have successfully implemented data-driven solutions and contributed to projects at the intersection of technology and data analytics. 
 </p>
