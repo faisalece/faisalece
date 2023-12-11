@@ -24,9 +24,6 @@
 <div class="section-content">
 <div class="description markdown">
 <p><b>Technical Proficiency:</b> <br>
-Specialization: Nanoelectronics, Semiconductor Materials & Devices, Power Electronics, RF Power Engineering, and Computational Electromagnetics.
-
-Technical Proficiency:
 <ul>
 1. Nanoelectronics & Semiconductor Power Electronics: Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
 </ul>
