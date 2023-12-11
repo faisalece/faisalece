@@ -70,44 +70,27 @@
 <div class="role">
 <span>Graduate Research Assistant</span>
 </div>
-<div class="location">
-<i class="fa-solid fa-location-dot"></i>
-<span>Beijing</span>
-</div>
 </div>
 <div class="description markdown">
-<p>Your key responsibilities and achievements in the company.</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
+<p>Skills: Analytical Skills · Algorithms · Software Development · Software Design · Object-oriented Software · Export Administration · Debugging · Data Structures · Computer Science · Communication · Applied Mathematics · Particle Accelerators · CST Studio · Electrical Engineering · Python (Programming Language) · Computational Electromagnetics · Vacuum Electronics · MATLAB · C++ · Nanoelectronics · COMSOLSkills.</p>
 </div>
 </div>
 <div class="item">
 <div class="row">
 <div class="company">
-<span>First Company</span>
-<small>[Part-time, remote]</small>
+<span>Singapore University of Technology and Design (SUTD)</span>
 </div>
 <div class="date">
-<span>2017.03 - 2018.03</span>
+<span>May 2022 - August 2022</span>
 </div>
 </div>
 <div class="row">
 <div class="role">
-<span>Backend Developer</span>
-</div>
-<div class="location">
-<i class="fa-solid fa-location-dot"></i>
-<span>Beijing</span>
+<span>Visiting Research Fellow</span>
 </div>
 </div>
 <div class="description markdown">
-<p>Your key responsibilities and achievements in the company.</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
+<p>Skills: Analytical Skills · Software Development · Software Design · Object-oriented Software · Export Administration · Debugging · Data Structures · Computer Science · Communication · Applied Mathematics · Python (Programming Language) · Numerical Analysis · Computational Electromagnetics · MATLAB · Nanoelectronics · COMSOL.</p>
 </div>
 </div>
 </div>
