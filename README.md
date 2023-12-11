@@ -78,7 +78,7 @@
 <div class="item">
 <div class="row">
 <div class="company">
-<span>Singapore University of Technology and Design (SUTD)</span>
+<a href="#">Singapore University of Technology and Design (SUTD)</a>
 </div>
 <div class="date">
 <span>May 2022 - August 2022</span>
