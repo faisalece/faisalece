@@ -23,7 +23,19 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p>Strong background in R&D, specializing in Nanoelectronics, Semiconductor materials and devices, Power electronics, Particle accelerators, Vacuum electronics, RF Power Engineering, Computational Electromagnetics, Data Science, and Machine Learning.</p>
+<p><b>Technical Proficiency:</b>
+Nanoelectronics and Semiconductor Materials: Adept in the intricacies of nanoscale electronics and advanced semiconductor materials, I have a proven track record of contributing to groundbreaking advancements in these rapidly evolving areas.
+
+Power Electronics and RF Power Engineering: Possessing a robust foundation in Power Electronics, I have demonstrated expertise in RF Power Engineering, ensuring the efficient design and optimization of systems that demand high-frequency power management.
+
+Computational Electromagnetics: Well-versed in Computational Electromagnetics, I leverage advanced simulation techniques to model and analyze electromagnetic phenomena, enhancing the understanding and performance of electronic systems.
+
+Particle Accelerators and Vacuum Electronics: Bringing valuable experience in Particle Accelerators and Vacuum Electronics, I have contributed to projects involving high-energy particle beams and vacuum-based electronic devices.
+
+Interdisciplinary Skills:
+
+In addition to my core technical competencies, I also have a keen interest and proficiency in Data Science and Machine Learning. Leveraging these skills, I have successfully implemented data-driven solutions and contributed to projects at the intersection of technology and data analytics. 
+</p>
 <p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
 <p>Extensive experience in government power utilities over 2.5 years, driving success in Engineering, Business Development, and Project Planning.</p>
 </div>
