@@ -33,7 +33,7 @@
 <b>3. Particle Accelerators & Vacuum Electronics:</b>  Experienced in Particle Accelerators and Vacuum Electronics, contributing to projects involving high-energy particle beams and vacuum-based electronic devices.
 </ul>
 <ul>
-<b>4. Data Science & Machine Learning:</b>b> Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
+<b>4. Data Science & Machine Learning:</b> Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
 </ul>
 </p>
 <p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
