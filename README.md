@@ -38,13 +38,10 @@
 <div class="section-content">
 
 <div class="items">
-<p>Language: C, C++, Python, MATLAB, SQL, Java, R </p>
-<p>Parallel Programming: High Performance Computing, MPI and OpenMP</p>
-<p>Framework: TensorFlow, Keras, Panda, PyTorch, Scikit-learn, Decision Tree (Adaboost, Xgboost, Gradient boosting)</p>
-<p>Machine Learning: Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest)</p>
-<p>Deep Learning: YoLo, Resnet, Alexnet, Bidirectional LSTM, RNN, Deep-CNN, GAN, VGG, Federated Learning</p>
-<p>Platform: Git</p>
-
+<p>Language: C, C++, Python, R, MATLAB</p>
+<p>Parallel Programming: High-Performance Computing, MPI and OpenMP</p>
+<p>Framework: 
+<p>Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn</p>
 </div>
 
 </div>
@@ -58,22 +55,20 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p>The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.</p>
 </div>
 <div class="items">
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">Second Company</a>
-<small>[Full-time]</small>
+<a href="#">Michigan State University</a>
 </div>
 <div class="date">
-<span>2018.03 - 2019.03</span>
+<span>August 2021 - Present</span>
 </div>
 </div>
 <div class="row">
 <div class="role">
-<span>Backend Developer</span>
+<span>Graduate Research Assistant</span>
 </div>
 <div class="location">
 <i class="fa-solid fa-location-dot"></i>
