@@ -52,8 +52,7 @@
 <div class="items">
 <p>Language: C, C++, Python, R, MATLAB</p>
 <p>Parallel Programming: High-Performance Computing, MPI and OpenMP</p>
-<p>Framework: 
-<p>Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn</p>
+<p>Framework: Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn</p>
 </div>
 
 </div>
