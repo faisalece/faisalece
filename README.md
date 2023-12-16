@@ -66,7 +66,7 @@
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">Michigan State University</a>
+<a>Michigan State University</a>
 </div>
 <div class="date">
 <span>August 2021 - Present</span>
@@ -74,7 +74,7 @@
 </div>
 <div class="row">
 <div class="role">
-<span>Graduate Research Assistant</span>
+<span><a>Graduate Research Assistant</a></span>
 </div>
 </div>
 <div class="description markdown">
@@ -84,7 +84,7 @@
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">Singapore University of Technology and Design (SUTD)</a>
+<a>Singapore University of Technology and Design (SUTD)</a>
 </div>
 <div class="date">
 <span>May 2022 - August 2022</span>
@@ -92,7 +92,7 @@
 </div>
 <div class="row">
 <div class="role">
-<span>Visiting Research Fellow</span>
+<span><a>Visiting Research Fellow</a></span>
 </div>
 </div>
 <div class="description markdown">
