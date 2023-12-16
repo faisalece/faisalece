@@ -17,12 +17,11 @@
 </section>
 <section class="profile" style="order: 1">
 <div class="section-title">
-<i class="section-icon fa-solid fa-user"></i>
 <h2>About Me</h2>
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p><b>Technical Proficiency:</b> <br>
+<b>Technical Proficiency:</b> <br>
 <ul>
 <b>1. Nanoelectronics, Semiconductor & Power Electronics:</b> Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
 </ul>
@@ -35,28 +34,25 @@
 <ul>
 <b>4. Data Science & Machine Learning:</b> Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
 </ul>
-</p>
-</div>
-</div>
-</section>
 
-<section class="skill" style="order: 4">
-<div class="section-title">
-<i class="section-icon fa-solid fa-toolbox"></i>
-<h2>Skills</h2>
-</div>
-<div class="section-content">
-
-<div class="items">
-<p>Language: C, C++, Python, R, MATLAB</p>
-<p>Parallel Programming: High-Performance Computing, MPI and OpenMP</p>
-<p>Framework: Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn</p>
-<p>Application Software: MATLAB, Simulink, Mathematica, CST Studio</p>
-</div>
+<b>Skills:</b> <br>
+<ul>
+<b>1. Language:</b> C, C++, Python, R, MATLAB.
+</ul>
+<ul>
+<b>2. Parallel Programming:</b> High-Performance Computing, MPI and OpenMP.
+</ul>
+<ul>
+<b>3. Framework:</b> Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn.
+</ul>
+<ul>
+<b>4. Application Software:</b> MATLAB, Simulink, Mathematica, CST Studio
+</ul>
 
 </div>
 </div>
 </section>
+
 
 <section class="experience" style="order: 2">
 <div class="section-title">
