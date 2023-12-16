@@ -36,8 +36,6 @@
 <b>4. Data Science & Machine Learning:</b> Strong interest and proficiency in Data Science and Machine Learning. Successfully implemented data-driven solutions, contributing to projects at the intersection of technology and data analytics.
 </ul>
 </p>
-<p>Seasoned engineer with over 2.7 years of exceptional performance at Renound Power Equipment, Energypac Engineering Ltd.</p>
-<p>Extensive experience in government power utilities over 2.5 years, driving success in Engineering, Business Development, and Project Planning.</p>
 </div>
 </div>
 </section>
@@ -53,7 +51,7 @@
 <p>Language: C, C++, Python, R, MATLAB</p>
 <p>Parallel Programming: High-Performance Computing, MPI and OpenMP</p>
 <p>Framework: Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn</p>
-<p>Application software: MATLAB, Simulink, Mathematica, CST Studio</p>
+<p>Application Software: MATLAB, Simulink, Mathematica, CST Studio</p>
 </div>
 
 </div>
