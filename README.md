@@ -99,6 +99,64 @@
 <p>Skills: Analytical Skills · Software Development · Software Design · Object-oriented Software · Export Administration · Debugging · Data Structures · Computer Science · Communication · Applied Mathematics · Python (Programming Language) · Numerical Analysis · Computational Electromagnetics · MATLAB · Nanoelectronics · COMSOL.</p>
 </div>
 </div>
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">3. Dhaka Electric Supply Company Ltd. (DESCO)</a>
+</div>
+<div class="date">
+<span>December 2019 - July 2021</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span><b>Assistant Engineer</b></span>
+</div>
+</div>
+<div class="description markdown">
+<p>Skills: Export Administration · Communication · Power System Operations · Power Distribution · Technical Writing · Substation Design.</p>
+</div>
+</div>
+
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">4. Bangladesh Power Development Board (BPDB)</a>
+</div>
+<div class="date">
+<span>February 2019 - December 2019</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span><b>Assistant Engineer</b></span>
+</div>
+</div>
+<div class="description markdown">
+<p>Skills: Export Administration · Communication · Technical Writing · Substation Design · Electrical Power Systems.</p>
+</div>
+</div>
+
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">5. Energypac Engineering Ltd.</a>
+</div>
+<div class="date">
+<span>May 2016 - December 2018</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span><b>Senior Engineer (R&D)</b></span>
+</div>
+</div>
+<div class="description markdown">
+<p>Skills: Database Management System (DBMS) · Software Development · Software Design · Object-oriented Software · Communication · Instrument Transformer (CT, PT) · Python (Programming Language) · Numerical Analysis · MATLAB.</p>
+</div>
+</div>
+
+
 </div>
 </div>
 </section>
