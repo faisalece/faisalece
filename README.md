@@ -43,7 +43,7 @@
 <b>2. Parallel Programming:</b> High-Performance Computing, MPI and OpenMP.
 </ul>
 <ul>
-<b>3. Application Software:</b> MATLAB, Simulink, Mathematica, CST Studio.
+<b>3. Application Software:</b> MATLAB, Simulink, Mathematica, CST Studio, HFSS, COMSOL.
 </ul>
 <ul>
 <b>4. Framework:</b> Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn.
