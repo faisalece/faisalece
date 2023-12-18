@@ -247,89 +247,43 @@ Python · MATLAB.
 
 
 
-<section class="certificate" style="order: 6">
-<div class="section-title">
-<i class="section-icon fa-solid fa-certificate"></i>
-<h2>Certificates</h2>
-</div>
-<div class="section-content">
-<div class="description markdown">
-<p>The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.</p>
-</div>
-<div class="items">
-<div class="item">
-<div class="row">
-<div class="certificate-name">
-<a href="#">Example Certificate One</a>
-</div>
-</div>
-<div class="row">
-<div class="issuer">
-<span>by Example</span>
-</div>
-<div class="date">
-<span>2020</span>
-</div>
-</div>
-<div class="description markdown">
-<p>It’s my Example Certificate One by Example.</p>
-</div>
-</div>
-<div class="item">
-<div class="row">
-<div class="certificate-name">
-<span>Example Certificate Two</span>
-</div>
-</div>
-<div class="row">
-<div class="issuer">
-<span>by Example</span>
-</div>
-<div class="date">
-<span>2020</span>
-</div>
-</div>
-<div class="description markdown">
-<p>It’s my Example Certificate Two by Example.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="publication" style="order: 7">
+<section class="publication" style="order: 4">
 <div class="section-title">
 <i class="section-icon fa-solid fa-newspaper"></i>
 <h2>Publications</h2>
 </div>
-<div class="section-content">
-<div class="description markdown">
-<p>The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.</p>
-</div>
+
 <div class="items">
+
+<b>Journal</b>
 <div class="item">
-<div class="publication-title">
-<a href="#" target="_blank">Example Publication in Action</a>
-</div>
-<div class="authors">
-<span>Foo Bar</span>
-</div>
-<div class="conference">
-<span>Foobar, 2019</span>
+<div class="Publication">
+<b>1.</b> <a href="#">M. A. Faisal and P. Zhang, "Grating Optimization for Smith–Purcell Radiation: Direct Correlation Between Spatial Growth Rate and Starting Current," in IEEE Transactions on Electron Devices, 2022, doi: 10.1109/TED.2022.3208846.</a>
 </div>
 </div>
+
+<b>Conference</b>
 <div class="item">
-<div class="publication-title">
-<span>The Art of Example Publication</span>
-</div>
-<div class="authors">
-<span>Foo Bar</span>
-</div>
-<div class="conference">
-<span>Foobar, 2019</span>
+<div class="Publication">
+<b>1.</b> <a href="#">Faisal, M. A., Iqbal, A., & Zhang, P. (2023).   Minimizing Starting Current of Smith-Purcell Radiation by Grating Optimization Using Dispersion Relation. In 2022 IEEE International Conference on Plasma Science (ICOPS) (pp. 1-1). IEEE.</a>
 </div>
 </div>
+
+<div class="item">
+<div class="Publication">
+<b>2.</b> <a href="#">M. A. Faisal & P. Zhang, (2023).  Smith-Purcell Radiation by a Two Layer Grating Structure. In 2023 Twenty-Fourth IEEE International Vacuum Electronics Conference (pp. 1-2). IEEE.</a>
 </div>
 </div>
+
+<div class="item">
+<div class="Publication">
+<b>3.</b> <a href="#">Faisal, M. A., Iqbal, A., & Zhang, P. (2022, May). Smith-Purcell Radiation with Different Grating Parameters and Beam Bunching Frequencies. In 2022 IEEE International Conference on Plasma Science (ICOPS) (pp. 1-1). IEEE.</a>
+</div>
+</div>
+
+
+</div>
+
 </section>
 <section class="award" style="order: 8">
 <div class="section-title">
