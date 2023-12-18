@@ -286,11 +286,7 @@ Python · MATLAB.
 
 </section>
 
-</div><footer class="footer">
-<span>Updated:&nbsp;</span>
-<span>2023-08-30</span>
-<i class="fa-solid fa-heart fa-beat-fade"></i>
-<a href="https://github.com/tarrex/online-resume" target="_blank">Online-Resume</a>
-</footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="35ec026eccccb7d4e53fff00-|49" defer></script></body>
+</div>
+
+</body>
 </html>
