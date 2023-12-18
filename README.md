@@ -37,7 +37,7 @@
 
 <b>Skills:</b> <br>
 <ul>
-<b>1. Language:</b> C, C++, Python, R, MATLAB.
+<b>1. Programming Language:</b> C, C++, Python, MATLAB.
 </ul>
 <ul>
 <b>2. Parallel Programming:</b> High-Performance Computing, MPI and OpenMP.
@@ -46,7 +46,7 @@
 <b>3. Application Software:</b> MATLAB, Simulink, Mathematica, CST Studio, HFSS, COMSOL.
 </ul>
 <ul>
-<b>4. Framework:</b> Machine Learning: Federated Learning, Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Panda, PyTorch, Scikit-learn.
+<b>4. Machine Learning Framework:</b> Segmentation, Clustering, Supervised-Unsupervised ML, Regression, SVM, KNN, MLP, Random Forest, Deep Learning, TensorFlow, Pandas, PyTorch, Scikit-learn.
 </ul>
 
 </div>
@@ -78,7 +78,9 @@
 </div>
 </div>
 <div class="description markdown">
-<p>Skills: Analytical Skills · Algorithms · Software Development · Software Design · Object-oriented Software · Export Administration · Debugging · Data Structures · Computer Science · Communication · Applied Mathematics · Particle Accelerators · CST Studio · Electrical Engineering · Python (Programming Language) · Computational Electromagnetics · Vacuum Electronics · MATLAB · C++ · Nanoelectronics · COMSOL.</p>
+<b>Skills:</b> Applied Mathematics · Numerical Analysis · Nanoelectronics · Semiconductor · Vacuum Electronics · Computational Electromagnetics. 
+<br>CST Studio · HFSS · COMSOL <br>
+C++ · Python · MATLAB.
 </div>
 </div>
 <div class="item">
@@ -96,7 +98,9 @@
 </div>
 </div>
 <div class="description markdown">
-<p>Skills: Analytical Skills · Software Development · Software Design · Object-oriented Software · Export Administration · Debugging · Data Structures · Computer Science · Communication · Applied Mathematics · Python (Programming Language) · Numerical Analysis · Computational Electromagnetics · MATLAB · Nanoelectronics · COMSOL.</p>
+<b>Skills:</b> Applied Mathematics · Nanoelectronics · Semiconductor · Contact Resistance · Computational Electromagnetics. 
+<br>CST Studio · HFSS · COMSOL <br>
+Python · MATLAB.
 </div>
 </div>
 <div class="item">
@@ -114,7 +118,7 @@
 </div>
 </div>
 <div class="description markdown">
-<p>Skills: Export Administration · Communication · Power System Operations · Power Distribution · Technical Writing · Substation Design.</p>
+<b>Skills:</b> Power System Operations · Power Distribution · Substation Design · Administration · Communication · Technical Writing.
 </div>
 </div>
 
@@ -133,7 +137,7 @@
 </div>
 </div>
 <div class="description markdown">
-<p>Skills: Export Administration · Communication · Technical Writing · Substation Design · Electrical Power Systems.</p>
+<b>Skills:</b> Power System Operations · Power Distribution · Substation Design · Administration · Communication · Technical Writing.
 </div>
 </div>
 
@@ -148,11 +152,11 @@
 </div>
 <div class="row">
 <div class="role">
-<span><b>Senior Engineer (R&D)</b></span>
+<span><b>Senior Engineer (Research and Development)</b></span>
 </div>
 </div>
 <div class="description markdown">
-<p>Skills: Database Management System (DBMS) · Software Development · Software Design · Object-oriented Software · Communication · Instrument Transformer (CT, PT) · Python (Programming Language) · Numerical Analysis · MATLAB.</p>
+<b>Skills:</b> Power System Operations · Power Distribution · Substation Design · Instrument Transformer (CT, PT) · Software Development · Administration · Communication · Technical Writing.
 </div>
 </div>
 
