@@ -190,10 +190,28 @@ Python · MATLAB.
 </div>
 </div>
 </div>
+
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">2. Singapore University of Technology and Design (SUTD)</a>
+<a href="#">2. Michigan State University</a>
+</div>
+<div class="date">
+<span>August 2021 - December 2023</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span><b>M.Sc. in Electrical and Computer Engineering</b></span>
+</div>
+</div>
+</div>
+
+
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">3. Singapore University of Technology and Design (SUTD)</a>
 </div>
 <div class="date">
 <span>May 2022 - August 2022</span>
@@ -205,6 +223,7 @@ Python · MATLAB.
 </div>
 </div>
 </div>
+
 <div class="item">
 <div class="row">
 <div class="company">
