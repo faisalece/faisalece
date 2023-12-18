@@ -144,7 +144,7 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">5. Energypac Engineering Ltd.</a>
+<a href="#">5. Energypac Engineering Ltd., Dhaka, Bangladesh.</a>
 </div>
 <div class="date">
 <span>May 2016 - December 2018</span>
