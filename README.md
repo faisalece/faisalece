@@ -106,7 +106,7 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">3. Dhaka Electric Supply Company Ltd, Dhaka, Bangladesh.</a>
+<a href="#">3. Dhaka Electric Supply Company Ltd., Dhaka, Bangladesh.</a>
 </div>
 <div class="date">
 <span>December 2019 - July 2021</span>
