@@ -227,7 +227,7 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">3. Bangladesh University of Engineering and Technology (BUET)</a>
+<a href="#">4. Bangladesh University of Engineering and Technology (BUET)</a>
 </div>
 <div class="date">
 <span>February 2011 - March 2016</span>
