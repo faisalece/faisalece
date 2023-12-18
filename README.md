@@ -164,53 +164,69 @@ Python · MATLAB.
 </div>
 </div>
 </section>
-<section class="project" style="order: 3">
+
+
+<section class="education" style="order: 3">
 <div class="section-title">
-<i class="section-icon fa-solid fa-folder-open"></i>
-<h2>Projects</h2>
+<i class="section-icon fa-solid fa-briefcase"></i>
+<h2>Education</h2>
 </div>
 <div class="section-content">
 <div class="description markdown">
-<p>The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.</p>
-<p>In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.</p>
-<p>The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.</p>
 </div>
 <div class="items">
 <div class="item">
 <div class="row">
-<div class="project-name">
-<a href="#" target="_blank">Personal project</a>
+<div class="company">
+<a href="#">1. Michigan State University</a>
 </div>
 <div class="date">
-<span>2015 - 2017</span>
+<span>August 2021 - Present</span>
 </div>
 </div>
-<div class="description markdown">
-<p>Personal project description…</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
+<div class="row">
+<div class="role">
+<span><b>PhD in Electrical and Computer Engineering</b></span>
+</div>
 </div>
 </div>
 <div class="item">
 <div class="row">
-<div class="project-name">
-<span>OSS project</span>
-<small>[committer]</small>
+<div class="company">
+<a href="#">2. Singapore University of Technology and Design (SUTD)</a>
+</div>
+<div class="date">
+<span>May 2022 - August 2022</span>
 </div>
 </div>
-<div class="description markdown">
-<p>OSS project description…</p>
-<ul>
-<li>First</li>
-<li>Second</li>
-</ul>
+<div class="row">
+<div class="role">
+<span><b>Visiting PhD Student</b></span>
 </div>
 </div>
+</div>
+<div class="item">
+<div class="row">
+<div class="company">
+<a href="#">3. Bangladesh University of Engineering and Technology (BUET)</a>
+</div>
+<div class="date">
+<span>February 2011 - March 2016</span>
+</div>
+</div>
+<div class="row">
+<div class="role">
+<span><b>B.Sc. in Electrical and Electronic Engineering (EEE)</b></span>
+</div>
+</div>
+</div>
+
+
 </div>
 </div>
 </section>
+
+
 
 <section class="certificate" style="order: 6">
 <div class="section-title">
