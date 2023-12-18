@@ -66,7 +66,7 @@
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">1. Michigan State University</a>
+<a href="#">1. Michigan State University, Michigan, USA.</a>
 </div>
 <div class="date">
 <span>August 2021 - Present</span>
@@ -86,7 +86,7 @@ C++ · Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">2. Singapore University of Technology and Design (SUTD)</a>
+<a href="#">2. Singapore University of Technology and Design (SUTD), Singapore.</a>
 </div>
 <div class="date">
 <span>May 2022 - August 2022</span>
@@ -106,7 +106,7 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">3. Dhaka Electric Supply Company Ltd. (DESCO)</a>
+<a href="#">3. Dhaka Electric Supply Company Ltd, Dhaka, Bangladesh.</a>
 </div>
 <div class="date">
 <span>December 2019 - July 2021</span>
@@ -125,7 +125,7 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">4. Bangladesh Power Development Board (BPDB)</a>
+<a href="#">4. Bangladesh Power Development Board, Dhaka, Bangladesh.</a>
 </div>
 <div class="date">
 <span>February 2019 - December 2019</span>
