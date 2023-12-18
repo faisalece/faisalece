@@ -21,7 +21,7 @@
 </div>
 <div class="section-content">
 <div class="description markdown">
-<b>Technical Proficiency:</b> <br>
+<b style="color:blue;">Technical Proficiency:</b> <br>
 <ul>
 <b>1. Nanoelectronics, Semiconductor & Power Electronics:</b> Expert in nanoscale electronics, semiconductor materials, and power electronics. Proficient in modeling with COMSOL and Matlab.
 </ul>
