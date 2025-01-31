@@ -66,15 +66,15 @@
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">1. Michigan State University, Michigan, USA.</a>
+<a href="#">1. University of Michigan, Michigan, USA.</a>
 </div>
 <div class="date">
-<span>August 2021 - Present</span>
+<span>January 2024 - Present</span>
 </div>
 </div>
 <div class="row">
 <div class="role">
-<span><b>Graduate Research Assistant</b></span>
+<span><b>Graduate Student Research Assistant</b></span>
 </div>
 </div>
 <div class="description markdown">
@@ -219,7 +219,7 @@ Python · MATLAB.
 </div>
 <div class="row">
 <div class="role">
-<span><b>Visiting PhD Student</b></span>
+<span><b>Visiting Student</b></span>
 </div>
 </div>
 </div>
