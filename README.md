@@ -5,7 +5,7 @@
 <section class="basic">
 <div class="header">
 <h1 class="name">Md Arifuzzaman Faisal</h1>
-<h3 class="title">PhD Student, Researcher, Data Analyst</h3>
+<h3 class="title">PhD Student, Researcher, Plasma Physics</h3>
 <div class="contact">
 
 <div class="contact-item" title="website">
