@@ -178,15 +178,15 @@ Python · MATLAB.
 <div class="item">
 <div class="row">
 <div class="company">
-<a href="#">1. Michigan State University</a>
+<a href="#">1. University of Michigan</a>
 </div>
 <div class="date">
-<span>August 2021 - Present</span>
+<span>January 2025 - Present</span>
 </div>
 </div>
 <div class="row">
 <div class="role">
-<span><b>PhD in Electrical and Computer Engineering</b></span>
+<span><b>PhD in ENuclear Engineering and Radiological Sciences</b></span>
 </div>
 </div>
 </div>
@@ -197,7 +197,7 @@ Python · MATLAB.
 <a href="#">2. Michigan State University</a>
 </div>
 <div class="date">
-<span>August 2021 - December 2023</span>
+<span>May 2024</span>
 </div>
 </div>
 <div class="row">
@@ -230,7 +230,7 @@ Python · MATLAB.
 <a href="#">4. Bangladesh University of Engineering and Technology (BUET)</a>
 </div>
 <div class="date">
-<span>February 2011 - March 2016</span>
+<span>March 2016</span>
 </div>
 </div>
 <div class="row">
