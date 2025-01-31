@@ -69,7 +69,7 @@
 <a href="#">1. University of Michigan, Michigan, USA.</a>
 </div>
 <div class="date">
-<span>January 2024 - Present</span>
+<span>January 2025 - Present</span>
 </div>
 </div>
 <div class="row">
